@@ -18,7 +18,7 @@
 	
 	#OR
 	#Run PowerShell as Admin
-	powershell -exec bypass "iwr -useb 'https://raw.githubusercontent.com/gushmazuko/WinToUsb/master/WinToUsb.ps1'|iex"
+	powershell -exec bypass "iwr -useb 'https://raw.githubusercontent.com/gushmazuko/WinToUsb/master/WinToUsb.ps1'|iex;WinToUsb"
 #>
 
 function WinToUSB(){
