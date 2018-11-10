@@ -1,2 +1,2 @@
 # WinToUsb
-Bootable Windows USB Stick
+Bootable Windows USB Stick with PowerShell 
